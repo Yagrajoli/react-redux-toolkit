@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "productName" : "Name1",
+        "image": "https://dummyimage.com/300",
+        "price" : 130 
+    },
+    {
+        "id":2,
+        "productName" : "Name2",
+        "image": "https://dummyimage.com/300",
+        "price" : 1320 
+    },
+    {
+        "id":3,
+        "productName" : "Name3",
+        "image": "https://dummyimage.com/300",
+        "price" : 140 
+    },
+    {
+        "id":4,
+        "productName" : "Name4",
+        "image": "https://dummyimage.com/300",
+        "price" : 230 
+    },
+    {
+        "id":5,
+        "productName" : "Name5",
+        "image": "https://dummyimage.com/300",
+        "price" : 150 
+    },
+    {
+        "id":6,
+        "productName" : "Name6",
+        "image": "https://dummyimage.com/300",
+        "price" : 160 
+    },
+    {
+        "id":7,
+        "productName" : "Name7",
+        "image": "https://dummyimage.com/300",
+        "price" : 430 
+    },
+    {
+        "id":8,
+        "productName" : "Name8",
+        "image": "https://dummyimage.com/300",
+        "price" : 130 
+    }
+]
